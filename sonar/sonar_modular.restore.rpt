@@ -1,0 +1,107 @@
+Restore Archived Project report for sonar_modular
+Fri Nov 08 15:01:45 2019
+Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Fri Nov 08 15:01:45 2019 ;
+; Revision Name                   ; sonar_modular                         ;
+; Top-level Entity Name           ; sonar_modular                         ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/paulo/Downloads/sonar_modular_FINAL2.qar' into the 'C:/Users/paulo/Downloads/sonar_modular_FINAL2_restored/' directory
+Info: Generated report 'sonar_modular.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/18.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4827 megabytes
+    Info: Processing ended: Fri Nov 08 15:01:45 2019
+    Info: Elapsed time: 00:00:04
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++---------------------------------------+
+; Files Restored                        ;
++---------------------------------------+
+; File Name                             ;
++---------------------------------------+
+; qar_info.json                         ;
+; Waveform.vwf                          ;
+; assignment_defaults.qdf               ;
+; circuito_pwm.vhd                      ;
+; contador_bcd.vhd                      ;
+; contador_m.vhd                        ;
+; contador_m_rx.vhd                     ;
+; contador_mm.vhd                       ;
+; deslocador_n.vhd                      ;
+; detector_borda.vhd                    ;
+; gerador_pulso.vhd                     ;
+; hex7seg.vhd                           ;
+; interface_sensor_distancia.vhd        ;
+; interface_sensor_distancia_fd.vhd     ;
+; interface_sensor_distancia_uc.vhd     ;
+; mux_4x1_n.vhd                         ;
+; output_files/testador_paridade.vhd    ;
+; registrador_n.vhd                     ;
+; rom_angulos.mif                       ;
+; rom_angulos_extendido.mif             ;
+; rom_generic.vhd                       ;
+; rom_numeros.mif                       ;
+; rx_serial_base.vhd                    ;
+; rx_serial_base_uc.vhd                 ;
+; rx_serial_fd.vhd                      ;
+; sonar_fd.vhd                          ;
+; sonar_modular.qpf                     ;
+; sonar_modular.qsf                     ;
+; sonar_modular.vhd                     ;
+; sonar_modular_assignment_defaults.qdf ;
+; sonar_uc.vhd                          ;
+; tx_serial_base.vhd                    ;
+; tx_serial_base_fd.vhd                 ;
+; tx_serial_base_uc.vhd                 ;
++---------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
